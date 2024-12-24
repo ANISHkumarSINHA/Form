@@ -38,7 +38,7 @@ Step 2: Address Details – Fill in your address information.
 Step 3: Preferences – Select your preferences using checkboxes or toggles.
 Step 4: Review & Submit – Review your information before submitting.
 Live Demo:
-Check out the live demo of the project here.
+Check out the live demo of the project here-> https://formanish-r3tepfe1g-anishs-projects-3a89a33f.vercel.app/
 
 Conclusion:
 This project showcases my skills in Next.js, UI development, and state management. I focused on creating a user-friendly, interactive experience with real-time features, smooth transitions, and a polished UI. Feel free to explore the live demo, and let me know if you have any questions or suggestions!
